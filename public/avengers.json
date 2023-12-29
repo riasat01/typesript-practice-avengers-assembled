@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Iron Man",
+        "releaseDate": "2008-05-02",
+        "mainCharacter": "Iron Man (Tony Stark)",
+        "shortDescription": "Tony Stark, a genius billionaire, builds a powered suit and becomes the armored superhero Iron Man.",
+        "longStoryline": "In 'Iron Man,' Tony Stark, a wealthy industrialist and genius inventor, is captured by terrorists using his own weapons. In captivity, he builds a powered suit of armor to escape. After returning to the United States, Stark refines the suit and uses it to fight against powerful enemies. As Iron Man, he becomes a symbol of hope and innovation. The film sets the stage for Stark's role as a founding member of the Avengers.",
+        "image": "iron_man.jpg"
+      },
+      {
+        "name": "The Incredible Hulk",
+        "releaseDate": "2008-06-13",
+        "mainCharacter": "Hulk (Bruce Banner)",
+        "shortDescription": "Scientist Bruce Banner transforms into the giant green Hulk when exposed to gamma radiation.",
+        "longStoryline": "In 'The Incredible Hulk,' Dr. Bruce Banner, a scientist on the run from the U.S. government, seeks a cure for his condition that transforms him into the Hulk. As he eludes capture, Banner confronts the mysterious 'Abomination,' a creature created through a similar experiment. The film explores Banner's internal struggle and introduces the Hulk as a force of both destruction and heroism. The events of 'The Incredible Hulk' have lasting implications for the Avengers.",
+        "image": "incredible_hulk.jpg"
+      },
+      {
+        "name": "Iron Man 2",
+        "releaseDate": "2010-05-07",
+        "mainCharacter": "Iron Man (Tony Stark)",
+        "shortDescription": "Tony Stark faces new challenges and adversaries while dealing with the consequences of revealing his identity as Iron Man.",
+        "longStoryline": "In 'Iron Man 2,' Tony Stark grapples with the consequences of revealing his identity as Iron Man. Facing political pressure and new adversaries, Stark must confront his own mortality. Meanwhile, a new villain, Ivan Vanko, emerges with a personal vendetta against Stark. As Stark struggles with his health and the demands of being a hero, he builds a new element for his suit and prepares for a new threat. 'Iron Man 2' explores the dual nature of heroism and the burdens that come with being a technological pioneer.",
+        "image": "iron_man_2.jpg"
+      },
+      {
+        "name": "Thor",
+        "releaseDate": "2011-05-06",
+        "mainCharacter": "Thor",
+        "shortDescription": "Thor, the Norse God of Thunder, is banished to Earth and must prove himself worthy to wield his enchanted hammer, Mjolnir.",
+        "longStoryline": "In 'Thor,' the powerful Norse God of Thunder, Thor, is banished from the realm of Asgard to Earth by his father Odin. Stripped of his powers and his enchanted hammer, Mjolnir, Thor must prove himself worthy of redemption. On Earth, he encounters scientists Jane Foster and Erik Selvig. As Thor adapts to his new surroundings, his brother Loki schemes to seize the throne of Asgard. 'Thor' explores themes of humility, sacrifice, and the responsibility that comes with wielding immense power.",
+        "image": "thor.jpg"
+      },
+      {
+        "name": "Captain America: The First Avenger",
+        "releaseDate": "2011-07-22",
+        "mainCharacter": "Captain America (Steve Rogers)",
+        "shortDescription": "Weak but determined, Steve Rogers undergoes an experiment, becoming the super-soldier Captain America.",
+        "longStoryline": "In 'Captain America: The First Avenger,' Steve Rogers, a frail young man, is enhanced to the peak of human physicality by an experimental serum. Becoming Captain America, he fights against the villainous Red Skull during World War II. The film showcases Captain America's origin, his battles against Hydra, and his ultimate sacrifice. Captain America's emergence sets the stage for his pivotal role in the Avengers initiative.",
+        "image": "captain_america.jpg"
+      },
+      {
+        "name": "The Avengers",
+        "releaseDate": "2012-05-04",
+        "mainCharacter": "Iron Man, Captain America, Thor, Hulk, Black Widow, Hawkeye",
+        "shortDescription": "Earth's mightiest heroes join forces to save the world from an alien invasion.",
+        "longStoryline": "The Avengers, a group of powerful superheroes assembled by S.H.I.E.L.D., face a dire threat as Loki, the adopted brother of Thor, seeks to conquer Earth using the powerful Tesseract. Loki plans to unleash an alien army upon humanity, forcing Nick Fury to activate the Avengers initiative. Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye must put aside their differences and work together to thwart Loki's schemes. As the battle unfolds, the Avengers learn the importance of teamwork and sacrifice, laying the foundation for their continued alliance against future threats.",
+        "image": "the_avengers.jpg"
+      }
+]
